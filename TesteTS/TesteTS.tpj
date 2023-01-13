@@ -1,0 +1,58 @@
+[WinTs Project 2.0]
+2
+T00000000000000 1..\..\MyTSFile.ts
+T00000000000000 1C:\Users\Vbox\Downloads\TesteTS.ts
+-1
+-1
+[Relative Filenames]
+RelativeFileName=0,..\..\MyTSFile.ts
+RelativeFileName=1,C:\Users\Vbox\Downloads\TesteTS.ts
+[Options]
+Output=Project1.hex
+ApplicationType=ts
+WindowsApp=neither
+TurnOffWarnings=yes
+ExtraCompileSwitches=
+OverrideTabSize=0
+SaveCurrentOpenFiles=0
+[Invisible Files]
+[Open Files]
+OpenFile=9,18,30,1,0,0,0,0,0,0,0,0,0,0,C:\Users\Vbox\Downloads\TesteTS.ts
+CurrentOpenFile=C:\Users\Vbox\Downloads\TesteTS.ts
+[Closed Files]
+ClosedFile=1,1,9,1,0,0,0,0,0,0,0,0,0,0,C:\TSF\MyTSFile.ts
+ClosedFile=10,44,27,1,0,0,0,0,0,0,0,0,0,0,..\..\MyTSFile.ts
+ClosedFile=1,1,1,1,0,0,0,0,0,0,0,0,0,0,TesteTS.ts
+[Windows]
+ProjManDocked=yes
+ProjManVisible=yes
+ProjManPos=0,97,177,406
+ProjManPage=0
+ProjManAlignLeft=yes
+Toolbar=yes
+CodeWndState=2
+CodeWndPos=0,0,0,0
+[Code Hints]
+[Run Parameters]
+CurrentParams=
+RunWorkDir=
+[Define Digital Input]
+MaxDigIn=0
+CodeDigIn=0
+[Define Digital Output]
+MaxDigOut=0
+CodeDigOut=0
+[Define Analogic Input]
+MaxAnaIn=0
+CodeAnaIn=0
+[Define Analogic Output]
+MaxAnaOut=0
+CodeAnaOut=0
+[Define Constants]
+CodeConst=0
+[Define Protocol Registers]
+MaxProtReg=0
+CodeProtReg=0
+[Define Variables]
+MaxVar=0
+CodeVar=0
