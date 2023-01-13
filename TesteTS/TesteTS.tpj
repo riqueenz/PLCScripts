@@ -1,14 +1,14 @@
 [WinTs Project 2.0]
 2
-T00000000000000 1..\..\MyTSFile.ts
-T00000000000000 1C:\Users\Vbox\Downloads\TesteTS.ts
+T20230112225331 0..\..\MyTSFile.ts
+T20230112225612 0C:\Users\Vbox\Downloads\TesteTS.ts
 -1
 -1
 [Relative Filenames]
 RelativeFileName=0,..\..\MyTSFile.ts
 RelativeFileName=1,C:\Users\Vbox\Downloads\TesteTS.ts
 [Options]
-Output=Project1.hex
+Output=TesteTS
 ApplicationType=ts
 WindowsApp=neither
 TurnOffWarnings=yes
@@ -17,7 +17,7 @@ OverrideTabSize=0
 SaveCurrentOpenFiles=0
 [Invisible Files]
 [Open Files]
-OpenFile=9,18,30,1,0,0,0,0,0,0,0,0,0,0,C:\Users\Vbox\Downloads\TesteTS.ts
+OpenFile=9,18,1,1,0,0,0,0,0,0,0,0,0,0,C:\Users\Vbox\Downloads\TesteTS.ts
 CurrentOpenFile=C:\Users\Vbox\Downloads\TesteTS.ts
 [Closed Files]
 ClosedFile=1,1,9,1,0,0,0,0,0,0,0,0,0,0,C:\TSF\MyTSFile.ts
@@ -26,7 +26,7 @@ ClosedFile=1,1,1,1,0,0,0,0,0,0,0,0,0,0,TesteTS.ts
 [Windows]
 ProjManDocked=yes
 ProjManVisible=yes
-ProjManPos=0,97,177,406
+ProjManPos=0,97,177,372
 ProjManPage=0
 ProjManAlignLeft=yes
 Toolbar=yes
