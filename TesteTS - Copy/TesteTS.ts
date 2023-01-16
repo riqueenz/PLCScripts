@@ -45,10 +45,6 @@ STATE 2:
 	$rkey(0)
 	s = 0
 	goto 0
-	
-STATE 3:
-	s = 0
-	goto 0
 
 ENDMACHINE
 
